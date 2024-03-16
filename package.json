@@ -1,0 +1,31 @@
+{
+  "name": "binhtrungcoooooonggg",
+  "version": "1.0.5",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khangan0837/binhtrungcoooooonggg.git"
+  },
+  "dependencies": {
+    "minhhang25-add-sub-ngon": "1.0.27",
+    "addd-subbbb-ngonnn": "1.0.5",
+    "trungbinhcong-khangan0837": "1.0.2",
+    "thanhngoc44-synnn": "1.0.45",
+    "synnnn-thanhngoc44-sum": "1.0.4",
+    "ngoclannnn-add-sub":"1.0.12",
+    "sub-addd-dispaly":"1.0.4"
+    },
+ "homepage": "https://github.com/khangan0837/binhtrungcoooooonggg.git",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "khangan0837",
+  "license": "MIT"
+}
